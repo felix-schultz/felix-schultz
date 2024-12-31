@@ -3,14 +3,11 @@ Hi, my name is Felix Schultz. If you want to connect, feel free to leave me a me
 
 ## Projects
 - Master Electrical and Computer Engineering
-- **[CA9.io](https://ca9.io)** - My passion project. I have been working on the Metaverse long before Zuckerberg even dreamt of it. The project is not really Open-Source, 
-you can find some code on the **[Github Page](https://github.com/CA9io)**
-- The12MT - "The 12: A miserable Truth", small game project that I have been working on in Unreal Engine 4. Will be continued within CA9.io (which is really great for creating games with your friends)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=felix-schultz&count_private=true&show_icons=true&theme=codeSTACKr&include_all_commits=true&rank_icon=github)
-
+- **[Good-Co.de](https://github.com/TM9657)** - All of the currently maintained projects.
+  
 ## Programming Languages
+- Rust (advanced)
+- Typescript / Javascript (advanced)
+- Python (intermediate)
 - C++ (intermediate)
-- Blueprints (advanced)
-- Typescript / Javascript (advanced) [NextJS, NodeJS, Serverless, ...]
-- Python (beginner)
+- Elixir (beginner, sadly)
