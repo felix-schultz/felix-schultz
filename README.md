@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/81e2e197-290f-43df-a114-1546afc7e603.svg)](https://wakatime.com/@81e2e197-290f-43df-a114-1546afc7e603)
+[![Felix's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felix_schultz\&layout=compact)](https://github.com/TM9657/flow-like)
 
 ## **Hi**!
 Hi, my name is Felix Schultz. If you want to connect, feel free to leave me a message on [LinkedIn](https://www.linkedin.com/in/schultz-felix/?originalSubdomain=de)
